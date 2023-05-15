@@ -1,0 +1,67 @@
+
+fieldset{
+  width:300px;
+  margin: 5px auto;
+  display:block;
+}
+fieldset input{
+  margin:10px 5px 
+}
+.set{
+  text-align: center;
+  margin-left: auto;
+ padding: 20px;
+ display:block;
+}
+.set input{
+  display: block;
+}
+input[type="radio"]{
+  margin: 0;
+float: left;
+ 
+}
+.inline{
+  width: unset;
+  margin: 0 -1.5rem 0 0.5rem;
+  vertical-align: middle;
+  
+}
+input[type="checkbox"]{
+   margin: 0;
+}
+#email{
+  display:block;
+  width:50%
+}
+ #name{
+   width:50%;
+   padding: 8px;
+   display:flex;
+ }
+  #email{
+   width:50%;
+   padding: 8px;
+   display:flex;
+ }
+  #number{
+   width:50%;
+   padding: 8px;
+   display:flex;
+ }
+ #dropdown{
+   width:50%;
+   display:flex;
+   padding:10px;
+ }
+.t{
+  display:flex;
+  align-items: left;
+}
+textarea{
+  display:block;
+}
+body{
+  background-color:grey;
+  
+}
